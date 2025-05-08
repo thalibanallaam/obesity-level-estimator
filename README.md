@@ -1,5 +1,7 @@
 # Obesity Level Estimator
 
+The Obesity Level Estimator is a machine learning application designed to predict an individual's obesity category based on their dietary habits and physical condition. Utilizing a dataset from the UCI Machine Learning Repository, the project aims to provide insights into obesity levels through data analysis and predictive modeling.
+
 ## Repository Outline
 ```
 1. README.md - This file
